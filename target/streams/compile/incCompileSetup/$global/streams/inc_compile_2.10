@@ -1,0 +1,175 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/valore/workspace/akka-learning/target/scala-2.10/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.4
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+9 items
+/home/valore/workspace/akka-learning/HelloWorld.scala -> /home/valore/workspace/akka-learning/target/scala-2.10/classes/HelloWorld$.class
+/home/valore/workspace/akka-learning/HelloWorld.scala -> /home/valore/workspace/akka-learning/target/scala-2.10/classes/HelloWorld.class
+/home/valore/workspace/akka-learning/src/main/scala/io/cambi/akka/actor/HelloAkka.scala -> /home/valore/workspace/akka-learning/target/scala-2.10/classes/io/cambi/akka/actor/Greeter$$anonfun$receive$1.class
+/home/valore/workspace/akka-learning/src/main/scala/io/cambi/akka/actor/HelloAkka.scala -> /home/valore/workspace/akka-learning/target/scala-2.10/classes/io/cambi/akka/actor/Greeter.class
+/home/valore/workspace/akka-learning/src/main/scala/io/cambi/akka/actor/HelloAkka.scala -> /home/valore/workspace/akka-learning/target/scala-2.10/classes/io/cambi/akka/actor/HelloAkka$.class
+/home/valore/workspace/akka-learning/src/main/scala/io/cambi/akka/actor/HelloAkka.scala -> /home/valore/workspace/akka-learning/target/scala-2.10/classes/io/cambi/akka/actor/HelloAkka$delayedInit$body.class
+/home/valore/workspace/akka-learning/src/main/scala/io/cambi/akka/actor/HelloAkka.scala -> /home/valore/workspace/akka-learning/target/scala-2.10/classes/io/cambi/akka/actor/HelloAkka.class
+/home/valore/workspace/akka-learning/src/main/scala/io/cambi/akka/actor/HelloAkka.scala -> /home/valore/workspace/akka-learning/target/scala-2.10/classes/io/cambi/akka/actor/WhoToGreet$.class
+/home/valore/workspace/akka-learning/src/main/scala/io/cambi/akka/actor/HelloAkka.scala -> /home/valore/workspace/akka-learning/target/scala-2.10/classes/io/cambi/akka/actor/WhoToGreet.class
+binary dependencies:
+5 items
+/home/valore/workspace/akka-learning/HelloWorld.scala -> /root/.sbt/boot/scala-2.10.4/lib/scala-library.jar
+/home/valore/workspace/akka-learning/HelloWorld.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+/home/valore/workspace/akka-learning/src/main/scala/io/cambi/akka/actor/HelloAkka.scala -> /root/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.4.6.jar
+/home/valore/workspace/akka-learning/src/main/scala/io/cambi/akka/actor/HelloAkka.scala -> /root/.sbt/boot/scala-2.10.4/lib/scala-library.jar
+/home/valore/workspace/akka-learning/src/main/scala/io/cambi/akka/actor/HelloAkka.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+9 items
+/home/valore/workspace/akka-learning/HelloWorld.scala -> HelloWorld
+/home/valore/workspace/akka-learning/HelloWorld.scala -> HelloWorld$
+/home/valore/workspace/akka-learning/src/main/scala/io/cambi/akka/actor/HelloAkka.scala -> io.cambi.akka.actor.Greeter
+/home/valore/workspace/akka-learning/src/main/scala/io/cambi/akka/actor/HelloAkka.scala -> io.cambi.akka.actor.Greeter$$anonfun$receive$1
+/home/valore/workspace/akka-learning/src/main/scala/io/cambi/akka/actor/HelloAkka.scala -> io.cambi.akka.actor.HelloAkka
+/home/valore/workspace/akka-learning/src/main/scala/io/cambi/akka/actor/HelloAkka.scala -> io.cambi.akka.actor.HelloAkka$
+/home/valore/workspace/akka-learning/src/main/scala/io/cambi/akka/actor/HelloAkka.scala -> io.cambi.akka.actor.HelloAkka$delayedInit$body
+/home/valore/workspace/akka-learning/src/main/scala/io/cambi/akka/actor/HelloAkka.scala -> io.cambi.akka.actor.WhoToGreet
+/home/valore/workspace/akka-learning/src/main/scala/io/cambi/akka/actor/HelloAkka.scala -> io.cambi.akka.actor.WhoToGreet$
+used names:
+61 items
+/home/valore/workspace/akka-learning/HelloWorld.scala -> <init>
+/home/valore/workspace/akka-learning/HelloWorld.scala -> AnyRef
+/home/valore/workspace/akka-learning/HelloWorld.scala -> Array
+/home/valore/workspace/akka-learning/HelloWorld.scala -> HelloWorld
+/home/valore/workspace/akka-learning/HelloWorld.scala -> Predef
+/home/valore/workspace/akka-learning/HelloWorld.scala -> String
+/home/valore/workspace/akka-learning/HelloWorld.scala -> Unit
+/home/valore/workspace/akka-learning/HelloWorld.scala -> println
+/home/valore/workspace/akka-learning/HelloWorld.scala -> scala
+/home/valore/workspace/akka-learning/src/main/scala/io/cambi/akka/actor/HelloAkka.scala -> !
+/home/valore/workspace/akka-learning/src/main/scala/io/cambi/akka/actor/HelloAkka.scala -> &&
+/home/valore/workspace/akka-learning/src/main/scala/io/cambi/akka/actor/HelloAkka.scala -> <init>
+/home/valore/workspace/akka-learning/src/main/scala/io/cambi/akka/actor/HelloAkka.scala -> ==
+/home/valore/workspace/akka-learning/src/main/scala/io/cambi/akka/actor/HelloAkka.scala -> A1
+/home/valore/workspace/akka-learning/src/main/scala/io/cambi/akka/actor/HelloAkka.scala -> AbstractFunction1
+/home/valore/workspace/akka-learning/src/main/scala/io/cambi/akka/actor/HelloAkka.scala -> Actor
+/home/valore/workspace/akka-learning/src/main/scala/io/cambi/akka/actor/HelloAkka.scala -> ActorSystem
+/home/valore/workspace/akka-learning/src/main/scala/io/cambi/akka/actor/HelloAkka.scala -> App
+/home/valore/workspace/akka-learning/src/main/scala/io/cambi/akka/actor/HelloAkka.scala -> B1
+/home/valore/workspace/akka-learning/src/main/scala/io/cambi/akka/actor/HelloAkka.scala -> ClassTag
+/home/valore/workspace/akka-learning/src/main/scala/io/cambi/akka/actor/HelloAkka.scala -> Function1
+/home/valore/workspace/akka-learning/src/main/scala/io/cambi/akka/actor/HelloAkka.scala -> Greeter
+/home/valore/workspace/akka-learning/src/main/scala/io/cambi/akka/actor/HelloAkka.scala -> HelloAkka
+/home/valore/workspace/akka-learning/src/main/scala/io/cambi/akka/actor/HelloAkka.scala -> None
+/home/valore/workspace/akka-learning/src/main/scala/io/cambi/akka/actor/HelloAkka.scala -> Predef
+/home/valore/workspace/akka-learning/src/main/scala/io/cambi/akka/actor/HelloAkka.scala -> Product
+/home/valore/workspace/akka-learning/src/main/scala/io/cambi/akka/actor/HelloAkka.scala -> Props
+/home/valore/workspace/akka-learning/src/main/scala/io/cambi/akka/actor/HelloAkka.scala -> ScalaRunTime
+/home/valore/workspace/akka-learning/src/main/scala/io/cambi/akka/actor/HelloAkka.scala -> Serializable
+/home/valore/workspace/akka-learning/src/main/scala/io/cambi/akka/actor/HelloAkka.scala -> String
+/home/valore/workspace/akka-learning/src/main/scala/io/cambi/akka/actor/HelloAkka.scala -> StringContext
+/home/valore/workspace/akka-learning/src/main/scala/io/cambi/akka/actor/HelloAkka.scala -> WhoToGreet
+/home/valore/workspace/akka-learning/src/main/scala/io/cambi/akka/actor/HelloAkka.scala -> _hashCode
+/home/valore/workspace/akka-learning/src/main/scala/io/cambi/akka/actor/HelloAkka.scala -> _toString
+/home/valore/workspace/akka-learning/src/main/scala/io/cambi/akka/actor/HelloAkka.scala -> actor
+/home/valore/workspace/akka-learning/src/main/scala/io/cambi/akka/actor/HelloAkka.scala -> actorOf
+/home/valore/workspace/akka-learning/src/main/scala/io/cambi/akka/actor/HelloAkka.scala -> actorRef2Scala
+/home/valore/workspace/akka-learning/src/main/scala/io/cambi/akka/actor/HelloAkka.scala -> akka
+/home/valore/workspace/akka-learning/src/main/scala/io/cambi/akka/actor/HelloAkka.scala -> apply
+/home/valore/workspace/akka-learning/src/main/scala/io/cambi/akka/actor/HelloAkka.scala -> asInstanceOf
+/home/valore/workspace/akka-learning/src/main/scala/io/cambi/akka/actor/HelloAkka.scala -> cambi
+/home/valore/workspace/akka-learning/src/main/scala/io/cambi/akka/actor/HelloAkka.scala -> eq
+/home/valore/workspace/akka-learning/src/main/scala/io/cambi/akka/actor/HelloAkka.scala -> greeter
+/home/valore/workspace/akka-learning/src/main/scala/io/cambi/akka/actor/HelloAkka.scala -> io
+/home/valore/workspace/akka-learning/src/main/scala/io/cambi/akka/actor/HelloAkka.scala -> isInstanceOf
+/home/valore/workspace/akka-learning/src/main/scala/io/cambi/akka/actor/HelloAkka.scala -> materializeClassTag
+/home/valore/workspace/akka-learning/src/main/scala/io/cambi/akka/actor/HelloAkka.scala -> name
+/home/valore/workspace/akka-learning/src/main/scala/io/cambi/akka/actor/HelloAkka.scala -> package
+/home/valore/workspace/akka-learning/src/main/scala/io/cambi/akka/actor/HelloAkka.scala -> println
+/home/valore/workspace/akka-learning/src/main/scala/io/cambi/akka/actor/HelloAkka.scala -> qual$1
+/home/valore/workspace/akka-learning/src/main/scala/io/cambi/akka/actor/HelloAkka.scala -> runtime
+/home/valore/workspace/akka-learning/src/main/scala/io/cambi/akka/actor/HelloAkka.scala -> s
+/home/valore/workspace/akka-learning/src/main/scala/io/cambi/akka/actor/HelloAkka.scala -> scala
+/home/valore/workspace/akka-learning/src/main/scala/io/cambi/akka/actor/HelloAkka.scala -> system
+/home/valore/workspace/akka-learning/src/main/scala/io/cambi/akka/actor/HelloAkka.scala -> toString
+/home/valore/workspace/akka-learning/src/main/scala/io/cambi/akka/actor/HelloAkka.scala -> typedProductIterator
+/home/valore/workspace/akka-learning/src/main/scala/io/cambi/akka/actor/HelloAkka.scala -> unchecked
+/home/valore/workspace/akka-learning/src/main/scala/io/cambi/akka/actor/HelloAkka.scala -> who
+/home/valore/workspace/akka-learning/src/main/scala/io/cambi/akka/actor/HelloAkka.scala -> x$1
+/home/valore/workspace/akka-learning/src/main/scala/io/cambi/akka/actor/HelloAkka.scala -> x$2
+/home/valore/workspace/akka-learning/src/main/scala/io/cambi/akka/actor/HelloAkka.scala -> ||
+product stamps:
+9 items
+/home/valore/workspace/akka-learning/target/scala-2.10/classes/HelloWorld$.class -> lastModified(1465021536000)
+/home/valore/workspace/akka-learning/target/scala-2.10/classes/HelloWorld.class -> lastModified(1465021536000)
+/home/valore/workspace/akka-learning/target/scala-2.10/classes/io/cambi/akka/actor/Greeter$$anonfun$receive$1.class -> lastModified(1465021536000)
+/home/valore/workspace/akka-learning/target/scala-2.10/classes/io/cambi/akka/actor/Greeter.class -> lastModified(1465021536000)
+/home/valore/workspace/akka-learning/target/scala-2.10/classes/io/cambi/akka/actor/HelloAkka$.class -> lastModified(1465021536000)
+/home/valore/workspace/akka-learning/target/scala-2.10/classes/io/cambi/akka/actor/HelloAkka$delayedInit$body.class -> lastModified(1465021536000)
+/home/valore/workspace/akka-learning/target/scala-2.10/classes/io/cambi/akka/actor/HelloAkka.class -> lastModified(1465021536000)
+/home/valore/workspace/akka-learning/target/scala-2.10/classes/io/cambi/akka/actor/WhoToGreet$.class -> lastModified(1465021536000)
+/home/valore/workspace/akka-learning/target/scala-2.10/classes/io/cambi/akka/actor/WhoToGreet.class -> lastModified(1465021536000)
+source stamps:
+2 items
+/home/valore/workspace/akka-learning/HelloWorld.scala -> hash(76b1cfe052f35c66fdedfea21258bc847983d582)
+/home/valore/workspace/akka-learning/src/main/scala/io/cambi/akka/actor/HelloAkka.scala -> hash(d7876bb43e85d2d235fe2db2b780b7cbacc54167)
+binary stamps:
+3 items
+/root/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.4.6.jar -> lastModified(1463655123000)
+/root/.sbt/boot/scala-2.10.4/lib/scala-library.jar -> lastModified(1425018584000)
+/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar -> lastModified(1454024930000)
+class names:
+3 items
+/root/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.4.6.jar -> akka.actor.Actor
+/root/.sbt/boot/scala-2.10.4/lib/scala-library.jar -> scala.runtime.AbstractFunction1
+/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+2 items
+/home/valore/workspace/akka-learning/HelloWorld.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDYc3vDAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cA1pzNN0AAZub3RpZnlzcQB+AAyrjp6DdAAEd2FpdHNxAH4ADMAyjON0AA0kYXNJbnN0YW5jZU9mc3EAfgAMEnvlkXQABmVxdWFsc3NxAH4ADG6Zj5p0AAxhc0luc3RhbmNlT2ZzcQB+AAx8aJuKdAAMc3luY2hyb25pemVkc3EAfgAMkowJDHQADSRpc0luc3RhbmNlT2ZzcQB+AAyhG7xidAAEbWFpbnNxAH4ADKPo2lt0AAlub3RpZnlBbGxzcQB+AAyQS6ROdAAMaXNJbnN0YW5jZU9mc3EAfgAMZpn3YXQAAj09c3EAfgAMN0h1EHQABWNsb25lc3EAfgAMBCAndXQACHRvU3RyaW5nc3EAfgAMjMLSVXQAAiE9c3EAfgAMwGH2wHQACkhlbGxvV29ybGRzcQB+AAzbYpwzdAAIZ2V0Q2xhc3NzcQB+AAyHw2pZdAACbmVzcQB+AAxGNKwrdAACZXFzcQB+AAwaOJmadAACIyNzcQB+AAzYPcwYdAAIZmluYWxpemVzcQB+AAxLU8Y/dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBBeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+ACt1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AFgBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEFMAAlpbmhlcml0ZWRxAH4AQUwAB3BhcmVudHNxAH4AQXhxAH4AX3NxAH4AWAF1cQB+ADwAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AEJxAH4AS3VxAH4ATAAAAABzcQB+AE4AcQB+AB11cQB+AFAAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AXnQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AF5zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AHp1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgBneHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBTdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgBuWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBec3EAfgBtdAAFQXJyYXlxAH4Ac3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgBtdAAGU3RyaW5nc3EAfgBxc3EAfgB0dXEAfgB3AAAAA3NxAH4AeXQABGphdmFzcQB+AHl0AARsYW5ncQB+AH5wc3EAfgBYAXVxAH4APAAAAABwc3EAfgBYAXVxAH4AkgAAAAJzcQB+AG10AAZPYmplY3RxAH4AlnNxAH4AbXQAA0FueXEAfgBzcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVRoWlr91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA+L2hvbWUvdmFsb3JlL3dvcmtzcGFjZS9ha2thLWxlYXJuaW5nL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABR2sc/gUvNcZv3t/qISWLyEeYPVgg==
+/home/valore/workspace/akka-learning/src/main/scala/io/cambi/akka/actor/HelloAkka.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCxgDtYAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwTjkSHXQABHNlbGZzcQB+AAvC3JbldAAHY29udGV4dHVxAH4ACQAAADVzcQB+AAtwlgkLdAAGbm90aWZ5c3EAfgALETUTuHQAB1JlY2VpdmVzcQB+AAs7MkgzdAAHZ3JlZXRlcnNxAH4ACwUOdKN0AARuYW1lc3EAfgALxCi7KHQABHdhaXRzcQB+AAsHtnAFdAANJGFzSW5zdGFuY2VPZnNxAH4ACzu4VwJ0AAZzeXN0ZW1zcQB+AAvE9F4adAAHR3JlZXRlcnNxAH4ACzKmDop0AAxwcm9kdWN0QXJpdHlzcQB+AAsB0rEqdAAGZXF1YWxzc3EAfgALg1ZiKXQADGFzSW5zdGFuY2VPZnNxAH4AC0ZTPut0AA5leGVjdXRpb25TdGFydHNxAH4AC0W9miR0AAxzeW5jaHJvbml6ZWRzcQB+AAv6D3oRdAANJGlzSW5zdGFuY2VPZnNxAH4AC3fGi810AAdyZWNlaXZlc3EAfgAL6LiMCXQACnByZVJlc3RhcnRzcQB+AAvZ7xBndAANYXJvdW5kUmVjZWl2ZXNxAH4AC+ypRaB0AAhjYW5FcXVhbHNxAH4AC5orvsV0AAVfYXJnc3NxAH4AC9bDg/t0AAtwb3N0UmVzdGFydHNxAH4AC/Qpw410AARtYWluc3EAfgALjfpZDHQACHBvc3RTdG9wc3EAfgAL7ymMF3QADXByb2R1Y3RQcmVmaXhzcQB+AAu5QZgpdAAIaW5pdENvZGVzcQB+AAtonupbdAAJbm90aWZ5QWxsc3EAfgALAIjv33QAEWFyb3VuZFBvc3RSZXN0YXJ0c3EAfgAL2EV+snQADGlzSW5zdGFuY2VPZnNxAH4ACxy8k/d0ABBhcm91bmRQcmVSZXN0YXJ0c3EAfgALwssEiHQADmFyb3VuZFBvc3RTdG9wc3EAfgALFPSp5nQACUhlbGxvQWtrYXNxAH4AC0Ia4jV0AAY8aW5pdD5zcQB+AAujYmfldAAIcHJlU3RhcnRzcQB+AAvLBQJGdAAJdW5oYW5kbGVkc3EAfgALqycib3QACldob1RvR3JlZXRzcQB+AAvodXLAdAACPT1zcQB+AAvMjQdrdAAFY2xvbmVzcQB+AAvdKH3EdAAEY29weXNxAH4AC+SgJWh0AAZzZW5kZXJzcQB+AAtFYN/KdAAIdG9TdHJpbmdzcQB+AAtdUmypdAAEYXJnc3NxAH4AC8ai6hl0AAIhPXNxAH4AC6R6XS10AAhnZXRDbGFzc3NxAH4AC6Ceuu50AA5jb3B5JGRlZmF1bHQkMXNxAH4AC4Lyrod0AAJuZXNxAH4AC00VagR0ABJzdXBlcnZpc29yU3RyYXRlZ3lzcQB+AAvnMZ36dAACZXFzcQB+AAtVMpCpdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgALba+QRHQAC2RlbGF5ZWRJbml0c3EAfgALdQlp0XQAAiMjc3EAfgALbDmulXQACGZpbmFsaXplc3EAfgAL2mEp83QADnByb2R1Y3RFbGVtZW50c3EAfgALmGoCOHQACGhhc2hDb2Rlc3EAfgAL3XGgGHQADmFyb3VuZFByZVN0YXJ0c3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAA3NyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AhXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAHmlvLmNhbWJpLmFra2EuYWN0b3IuV2hvVG9HcmVldHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA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AAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgAMTAADdHBlcQB+AQt4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AJh0AAVQbGFpbnEAfgBhc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCxWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgCjc3EAfgCwdAAFQXJyYXlxAH4BE3VxAH4ArgAAAAFzcQB+ALB0AAZTdHJpbmdzcQB+ALRzcQB+ALd1cQB+ALoAAAADc3EAfgC8cQB+AMdzcQB+ALxxAH4A1XEAfgDBcHNxAH4AnQF1cQB+AK4AAAAEc3EAfgCwdAADQXBwcQB+ARNzcQB+ALB0AAtEZWxheWVkSW5pdHEAfgETc3EAfgCwcQB+AM9xAH4BLHNxAH4AsHEAfgDXcQB+ARNwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAEc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AAx4cHQADWlvLmNhbWJpLmFra2FzcQB+ATt0AAJpb3NxAH4BO3QAE2lvLmNhbWJpLmFra2EuYWN0b3JzcQB+ATt0AAhpby5jYW1iaXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVRoWlr91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdAA+L2hvbWUvdmFsb3JlL3dvcmtzcGFjZS9ha2thLWxlYXJuaW5nL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTXh2u0PoXS0jX+LbK3gLfLrMVBZw==
+external apis:
+0 items
+source infos:
+2 items
+/home/valore/workspace/akka-learning/HelloWorld.scala -> 
+AAAAAAAAAAA=
+/home/valore/workspace/akka-learning/src/main/scala/io/cambi/akka/actor/HelloAkka.scala -> 
+AAAAAAAAAAA=
+compilations:
+6 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVRVuq4Z1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9ob21lL3ZhbG9yZS93b3Jrc3BhY2UvYWtrYS1sZWFybmluZy90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVRoC6wh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9ob21lL3ZhbG9yZS93b3Jrc3BhY2UvYWtrYS1sZWFybmluZy90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVRoENLd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9ob21lL3ZhbG9yZS93b3Jrc3BhY2UvYWtrYS1sZWFybmluZy90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVRoHQ5F1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9ob21lL3ZhbG9yZS93b3Jrc3BhY2UvYWtrYS1sZWFybmluZy90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVRoV0Kx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9ob21lL3ZhbG9yZS93b3Jrc3BhY2UvYWtrYS1sZWFybmluZy90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+5 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVRoWlr91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9ob21lL3ZhbG9yZS93b3Jrc3BhY2UvYWtrYS1sZWFybmluZy90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
